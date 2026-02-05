@@ -17,7 +17,6 @@ Menggunakan pendekatan **Multiple Linear Regression**, sistem ini menganalisis p
 
 ![Tampilan Dashboard](AnalisisRegresiPerformaAkademikMahasiswa/Dashboard_PerformaAkademik.png)
 
-*(Jangan lupa ganti path gambar di atas dengan screenshot dashboard kamu)*
 
 ---
 
