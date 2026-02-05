@@ -15,7 +15,7 @@ Menggunakan pendekatan **Multiple Linear Regression**, sistem ini menganalisis p
 
 > *Aplikasi web interaktif dilengkapi dengan logika pembatasan waktu 24 jam untuk input yang realistis.*
 
-![Tampilan Dashboard](assets/dashboard_preview.png)
+![Tampilan Dashboard](AnalisisRegresiPerformaAkademikMahasiswa/Dashboard_PerformaAkademik.png)
 
 *(Jangan lupa ganti path gambar di atas dengan screenshot dashboard kamu)*
 
